@@ -110,9 +110,9 @@ namespace PelletierLab4
             const int MIN = 1, MAX = 10;
             double price, total;
             string location;
-            
+            bool tryParseResult = int.TryParse(txtPeople.Text, out int number);
 
-            if (int.TryParse(txtPeople.Text, out int number))                
+            if (tryParseResult == false)                
             {
                 DisplayMsg("People must be a whole number", "Input Error");
                 txtPeople.Focus();
@@ -185,7 +185,7 @@ namespace PelletierLab4
                      "\n" + "Price : " + total.ToString("C");
                     } //end if
 
-                switch ()
+                switch (number)
                 {
                     case 1:
                         DisplayMsg("Special when booking single or tiple." +
@@ -203,7 +203,7 @@ namespace PelletierLab4
                 } //end switch
 
                 grpTripInformation.Show();
-                grpBook.Enabled = false
+                grpBook.Enabled = false;
             } //end else
         } //end book click
 
