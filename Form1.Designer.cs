@@ -45,7 +45,6 @@
             this.grpTripInformation = new System.Windows.Forms.GroupBox();
             this.lblDisplay = new System.Windows.Forms.Label();
             this.btnConfirm = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
             this.grpBook.SuspendLayout();
             this.grpSelectLocation.SuspendLayout();
             this.grpTripInformation.SuspendLayout();
@@ -210,7 +209,6 @@
             // grpTripInformation
             // 
             this.grpTripInformation.BackColor = System.Drawing.SystemColors.Control;
-            this.grpTripInformation.Controls.Add(this.label1);
             this.grpTripInformation.Controls.Add(this.lblDisplay);
             this.grpTripInformation.Location = new System.Drawing.Point(258, 13);
             this.grpTripInformation.Name = "grpTripInformation";
@@ -237,15 +235,6 @@
             this.btnConfirm.UseVisualStyleBackColor = true;
             this.btnConfirm.Click += new System.EventHandler(this.btnConfirm_Click);
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(35, 70);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(19, 15);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "hi";
-            // 
             // PelletierLab4
             // 
             this.AcceptButton = this.btnBook;
@@ -266,7 +255,6 @@
             this.grpSelectLocation.ResumeLayout(false);
             this.grpSelectLocation.PerformLayout();
             this.grpTripInformation.ResumeLayout(false);
-            this.grpTripInformation.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -290,7 +278,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label lblDisplay;
         private System.Windows.Forms.Button btnConfirm;
-        private System.Windows.Forms.Label label1;
     }
 }
 
