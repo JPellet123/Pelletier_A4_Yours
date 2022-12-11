@@ -1,0 +1,11 @@
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\bin\Debug\PelletierLab4.exe.config
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\bin\Debug\PelletierLab4.exe
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\bin\Debug\PelletierLab4.pdb
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\obj\Debug\PelletierLab4.csproj.AssemblyReference.cache
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\obj\Debug\PelletierLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\obj\Debug\PelletierLab4.PelletierLab4.resources
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\obj\Debug\PelletierLab4.Properties.Resources.resources
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\obj\Debug\PelletierLab4.csproj.GenerateResource.cache
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\obj\Debug\PelletierLab4.csproj.CoreCompileInputs.cache
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\obj\Debug\PelletierLab4.exe
+C:\Users\jp40i\OneDrive\Desktop\OneDrive\0-Fall2020\C#\Labs\Pelletier Lab 4\PelletierLab4\PelletierLab4\obj\Debug\PelletierLab4.pdb
